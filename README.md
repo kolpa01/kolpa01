@@ -1,6 +1,2 @@
-- 👋 Hi, I’m @kolpa01
-- 👀 I’m interested in nothing
-- 🌱 I’m currently learning python
-- I am make account without reason
-
-
+I'll put something here soon.
+But for now... Morex is here.
